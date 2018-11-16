@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/dmv/Documents/Bookmarks/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2185738714.index
+429146587.index
+3272074693.index
+544470841.index
+3449641157.index
